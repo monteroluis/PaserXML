@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+    <clasicos>
+       <Auto>
+        <Modelo> DB4 convertible</Modelo>
+        <Fabricante>Aston Martin</Fabricante>
+        <Lanzamiento>1961</Lanzamiento>
+       </Auto>
+        <Auto>
+        <Modelo> 220 SE Coupe </Modelo>
+        <Fabricante>Mercedes Benz</Fabricante>
+        <Lanzamiento>1961</Lanzamiento>
+        </Auto>
+    </clasicos>
+    <Deportivo>
+        <Auto>
+            <Modelo>Supra </Modelo>
+            <Fabricante>Toyota</Fabricante>
+            <Lanzamiento>2019</Lanzamiento>
+        </Auto>
+        <Auto>
+            <Modelo>Huracan Evo </Modelo>
+            <Fabricante>Lamborghini</Fabricante>
+            <Lanzamiento>2020</Lanzamiento>
+        </Auto>
+    </Deportivo>
+</concesionario>
